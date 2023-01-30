@@ -1,0 +1,10 @@
+---
+title: "Analysis of TEM Data using Machine Learning Methods"
+collection: publications
+permalink: /publication/analysis-of-tem-data-using-machine-learning-methods
+excerpt: 'This was my final year thesis during my Bachelor's at NTU. It briefly compares the effectiveness of denoising algorithms used for extremely noisy liquid phase transmission electron microscopy (LTEM).'
+date: 2009-12-08
+venue: 'DR-NTU'
+paperurl: 'https://hdl.handle.net/10356/153652'
+citation: 'Muhammed Imran, "Analysis of TEM Data using Machine Learning Methods" <i>B.Eng. Thesis, School of Materials Science and Engineering, Nanyang Technological University, Singapore</i>. (2021)'
+---
