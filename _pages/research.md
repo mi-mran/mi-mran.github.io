@@ -21,10 +21,14 @@ A basic introduction to the concept of electron microscopy.
 Basic working principles of SEM.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eOyfoMRHfgE?si=0edny09od2PEowh3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<br/><br/>
+
 Focused Ion Beam (FIB)
 =====
 I use FIB for TEM sample prep, but this video shows a broad overview on all the possible uses of FIB.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7CPlzxfAEj0?si=G0ODVWyL8HN06GPW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br/><br/>
 
 Change Detection
 =====
