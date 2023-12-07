@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<br/><br/>
+
 As I publish and get involved in more projects, I will be updating this page. For now, feel free to browse through the high-level concepts of some of my works.
 
 Electron Microscopy
