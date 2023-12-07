@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Muhammed Imran"
 title_separator          : "-"
 name                     : &name "Muhammed Imran"
-description              : &description "PhD Student at University of Connecticut"
+description              : &description "PhD Candidate at University of Connecticut"
 url                      : https://mi-mran.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mi-mran.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Muhammed Imran"
   avatar           : "muhammed_imran_profile_picture.jpg"
-  bio              : "PhD Student at UConn, working on ML for TEM and image segmentation problems"
+  bio              : "PhD Candidate at UConn, working on ML for materials science."
   location         : "Connecticut, US"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        : "jesuisimmy"
   impactstory      : 
   lastfm           :
-  linkedin         : "muhammed-imran-bin-khairul-alam/"
+  linkedin         : "muhd-imran/"
   orcid            : 
   pinterest        :
   soundcloud       :
