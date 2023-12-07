@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Imran"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My research revolves around transmission electron microscopy (TEM), machine learning and image segmentation problems. I have a general interest in the application of machine learning toward improving microscopy workflows and the intersection between materials science and image-based data. For more information on my projects, stop by my Research page!
+My research revolves around transmission electron microscopy (TEM), scanning electron microscopy (SEM), focused ion beam (FIB) and applying machine learning (image segmentation) techniques to understand kinetic reaction mechanisms. I have a general interest in the application of machine learning toward improving microscopy workflows and the intersection between materials science and image-based data. For a detailed description of my past experiences, stop by my CV page!
 
 Education
 ======
