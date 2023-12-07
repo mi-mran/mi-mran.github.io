@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Muhammed Imran"
 title_separator          : "-"
-name                     : &name "Muhammed Imran"
+name                     : &name
 description              : &description "PhD Candidate at University of Connecticut"
 url                      : https://mi-mran.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
